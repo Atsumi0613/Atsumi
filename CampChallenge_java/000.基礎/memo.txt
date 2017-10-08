@@ -1,0 +1,19 @@
+
+The spec details of this computer as below...
+
+OS: Windows 10 Home
+CPU processor: Intel(R) Core(TM) i5-2520M CPU @ 2.50GHz 
+    memory(RAM) : 4.00GB
+    
+    
+    
+ The spec details of the security soft; Avira as below...
+ OS: 
+ Windows 8、最新 SP（32 ビットまたは 64 ビット）
+ Windows 7、最新 SP（32 ビットまたは 64 ビット）
+ Windows XP、最新 SP (32 ビットまたは 64 ビット)
+ 
+Pentium プロセッサー搭載コンピューターあるいはそれ以降 (1 GHz 以上推薦)
+150 MB以上のハード ディスク空き容量 
+最低 1024 MB RAM、Windows 8、Windows 7 の場合
+Windows XP で 512 MB 以上の RAM
